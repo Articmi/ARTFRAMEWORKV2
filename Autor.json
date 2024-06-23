@@ -1,0 +1,17 @@
+{
+    "name": "MiniFramework - OpenSource",
+    "description": "ARTFRAMEWORK is an open source mini framework for PHP 8, designed to facilitate the agile and efficient development of web applications and services, easily adapting to different types of projects. This project is susceptible to changes during its implementation.",
+    "version": "1.0.0",
+    "php": "^8.0",
+    "authors": [
+        {
+            "name": "Alvaro Noel Ocampo Zeledon",
+            "email": "alvaronoelocampozeledon2003@gmail.com",
+            "role": "Developer",
+            "github": "https://github.com/Articmi"
+        }
+    ],
+    "keywords": ["php", "miniframework", "frameworkopensource"],
+    "homepage": "articmi.com",
+    "license": "MIT"
+}

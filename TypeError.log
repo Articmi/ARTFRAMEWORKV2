@@ -1,0 +1,22 @@
+Error Sistem
+[ARTICMI/ART0001] = The file that the autoload tries to upload is not found.
+[ARTICMI/ART0002] = The route is not found by the router.
+[ARTICMI/ART0003] = Indicates that the view is not being found by the controller.
+[ARTICMI/ART0004] = The Templates are not being found.
+[ARTICMI/ART0005] = Modals are not being found.
+[ARTICMI/ART0006] = Error with database mysql connection.
+[ARTICMI/ART0007] = Error with database mongodb connection.
+
+Error MySQL
+[ARTICMI/ART0MY1] = Failed to insert into the database.
+[ARTICMI/ART0MY2] = Failed to retrieve data from the database.
+[ARTICMI/ART0MY3] = Failed to retrieve all data from the database.
+[ARTICMI/ART0MY4] = Failed to update the database.
+[ARTICMI/ART0MY5] = Failed to delete from the database.
+
+Error MongoDB
+[ARTICMI/ART0MO1] = Failed to insert into the database.
+[ARTICMI/ART0MO2] = Failed to retrieve data from the database.
+[ARTICMI/ART0MO3] = Failed to retrieve all data from the database.
+[ARTICMI/ART0MO4] = Failed to update the database.
+[ARTICMI/ART0MO5] = Failed to delete from the database.
